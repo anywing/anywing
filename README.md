@@ -14,7 +14,3 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/VScode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
 <hr>
-
-#### 💚 Languages 💚
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anywing)](https://github.com/anuraghazra/github-readme-stats)
-</div>
